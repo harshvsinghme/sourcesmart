@@ -1,0 +1,6 @@
+.landing-page-hero-1 {
+  background-size: cover;
+  background-position: center;
+  background-image: linear-gradient(250deg, rgba(130, 201, 30, 0) 0%, #062343 80%),
+    url(https://img.freepik.com/free-photo/cheerful-successful-middle-aged-manager-businessman-holding-tablet-computer-large-warehouse-organizing-distribution_342744-1494.jpg?t=st=1738133516~exp=1738137116~hmac=892b111b23f2824759d0cc7840c5f096332f810e3df80d699c29e6151bac660c&w=1480);
+}
